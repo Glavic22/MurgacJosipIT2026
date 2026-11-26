@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://glavic22.github.io/MurgacJosipIT2026/sitemap.xml
